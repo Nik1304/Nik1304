@@ -1,18 +1,32 @@
+<!-- ENCABEZADO ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e0e&height=200&section=header&text=Hola%2C%20soy%20Nicolas Riaño%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e0e&height=200&section=header&text=Hola%2C%20soy%20Nicolas Riaño %20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- FRASE TIPOGRAFICA ANIMADA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Amante+del+c%C3%B3digo+limpio+y+funcional;Python%2C+JavaScript%2C+CSS+%2F%2F+Web+Developer" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F97316&background=0F0F0F00&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Python;CSS;JavaScript;JSON;HTML;React" alt="Typing SVG" />
+</p>
+
+
+<!-- GIF O IMAGEN PRESENTACIÓN -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-- 💻 Full Stack Developer con enfoque en la creación de interfaces limpias y lógicas robustas.
+- 🔁 Mentalidad orientada a la mejora continua y el aprendizaje autodidacta.
+
+- ⚙️ Fuerte dominio del pensamiento lógico y estructuración de código.
+
 - 🧠 Apasionado por el aprendizaje continuo y las buenas prácticas de desarrollo.
+
 - 📚 En constante mejora profesional con proyectos personales y colaborativos.
+
 - 🧩 Fuerte atención al detalle, diseño responsive y código escalable.
 
 ---
@@ -30,16 +44,16 @@
 
 ### 📊 Estadísticas
 
-<div align="center">
+<p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nik1304&show_icons=true&theme=github_dark&hide=issues"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nik1304&layout=compact&theme=github_dark"/>
-</div>
+</p>
 
 ---
 
 ### 🌍 Contacto y redes
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/tu-usuario" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -53,4 +67,12 @@
 
 ---
 
-> _“La calidad no es un acto, es un hábito” – Aristóteles_
+<!-- FOOTER ESTILIZADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e0e&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <em>Gracias por visitar mi perfil. Siempre estoy abierto a colaborar y aprender.</em><br/>
+  <strong>- Nik 🧑‍💻</strong>
+</p>
