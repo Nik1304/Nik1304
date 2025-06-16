@@ -5,7 +5,7 @@
 
 <!-- FRASE TIPOGRAFICA ANIMADA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F97316&background=0F0F0F00&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Python;CSS;JavaScript;JSON;HTML;React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F97316&background=0F0F0F00&center=true&vCenter=true&width=450&lines=;Python;CSS;JavaScript;JSON;HTML;React" alt="Typing SVG" />
 </p>
 
 
