@@ -1,10 +1,9 @@
 <!-- ENCABEZADO ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e0e&height=200&section=header&text=Hola%2C%20soy%20Nicolas Riaño %20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=500&color=FACC15&background=00000000&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Nicolás+Riaño;Full+Stack+Developer" alt="Encabezado animado" />
 </p>
 
 <!-- FRASE TIPOGRAFICA ANIMADA -->
-<p align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F97316&background=0F0F0F00&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Python;CSS;JavaScript;JSON;HTML;React" alt="Typing SVG" />
 </p>
@@ -57,7 +56,7 @@
   <a href="https://linkedin.com/in/tu-usuario" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mnegocios399@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://tusitio.com">
