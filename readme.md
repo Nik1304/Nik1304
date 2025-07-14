@@ -28,8 +28,6 @@
 
 - 🧩 Fuerte atención al detalle, diseño responsive y código escalable.
 
-- 🔁 Fuerte atraccion a los hombres.
-
 ---
 
 ### 🛠️ Tecnologías principales
